@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrew-Tula
-- 👀 I’m interested in C++ developing.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate with newcomer/beginner as my.
+- 👀 I’m interested in C++/C# developing.
+- 🌱 I’m currently learning C++ & C#.
+- 💞️ I’m looking to collaborate with newcomer/beginner (noobcoders :-) as my.
 - 📫 How to reach me ...
 
 <!---
